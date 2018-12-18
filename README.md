@@ -1,5 +1,5 @@
 
-# Improvement of cancer subtype prediction by incorporating transcriptome expression data and heterogeneous biological network #
+# CSPRV #
 
 Requirements
 ----------
