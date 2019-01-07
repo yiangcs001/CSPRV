@@ -52,10 +52,10 @@ python main.py -m mRNA_Expression_Data.txt -t TF_Expression_Data.txt -r miRNA_Ex
 
 **Output**  
 
-'Patient Subtypes Labels': the first column represents patients' ID, and the second column represents patients' label.  
-'Correlation Matrix': the patients' correlation matrix.
+Patient Subtypes Labels: the first column represents patients' ID, and the second column represents patients' label.  
+Correlation Matrix: the patients' correlation matrix.
 
 ----------
 Copyright and License Information
 ----------
-Copyright (C) 2018 Northwestern Polytechnical University, Xi’an, China. Yang Guo(gyang@mail.nwpu.edu.cn) and Yang Qi(yang.qi@mail.nwpu.edu.cn)
+Copyright (C) 2018 Northwestern Polytechnical University, Xi’an, China.
